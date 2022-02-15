@@ -61,3 +61,5 @@ han corresponds to PS_preWGD_ancestor.block and dan corresponds to PS_postWGD_an
 ### pipline.py
 The python version workflow for inferring Papaver ancestor genomes.
 
+## Citation
+Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). https://doi.org/10.1038/s41467-021-26330-8
