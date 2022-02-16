@@ -1,6 +1,8 @@
 # IAG for three Papaver species
 To figure out what genome structural changes occured to shape the present-day karyotypes of three Papaver species. We developed a novel bottom-up workflow IAG (inferring ancestor genome) to reconstruct pre- and post-WGD-1 ancestors of three Papaver genomes. 
 
+IAG framework was specifically designed for three Papaver species, and is not able to correctly reconstruct the pre-WGD-2 ancestor. We have updated IAG to IAGS (https://github.com/xjtu-omics/IAGS) under a wide range of evolutionary scenarios by involving block matching optimization (BMO) and endpoint matching optimization (EMO).  
+
 ## Dependencies
 python 3.6.4
 ```Bash
